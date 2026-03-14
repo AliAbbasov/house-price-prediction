@@ -1,0 +1,30 @@
+New Features Created:
+----------------------------------------
+ 1. TotalSF
+ 2. TotalBathrooms
+ 3. TotalPorchSF
+ 4. TotalOutdoorSF
+ 5. TotalBsmtFinSF
+ 6. QualCondScore
+ 7. LivingArea_to_LotArea
+ 8. BasementRatio
+ 9. GarageArea_to_LivArea
+10. Bedroom_to_TotalRooms
+11. HouseAge
+12. YearsSinceRemodel
+13. GarageAge
+14. IsNewHouse
+15. HasSecondFloor
+16. HasBasement
+17. HasGarage
+18. HasFireplace
+19. HasPool
+20. HasPorch
+21. HasDeck
+22. IsRemodeled
+23. Quality_x_Area
+24. Qual_x_Cond
+25. Quality_x_TotalSF
+26. Bathrooms_x_Bedrooms
+27. OverallQual_Squared
+28. GrLivArea_Squared
